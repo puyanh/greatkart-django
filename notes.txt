@@ -1,0 +1,4 @@
+source env/Scripts/activate： enter env
+deactivate: exit
+pip freeze: view installed packages
+python manage.py runserver: start server
